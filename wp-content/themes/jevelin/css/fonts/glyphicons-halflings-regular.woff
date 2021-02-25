@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=http://localhost:8080/dashboard/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "http://localhost:8080/dashboard/";
+		</script>
+
+		<p>You are being redirected to <a href="http://localhost:8080/dashboard/">http://localhost:8080/dashboard/</a></p>
+	</body>
+</html>
